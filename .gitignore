@@ -1,0 +1,6 @@
+.env
+.vscode
+/api/images/*
+api/images/*
+.errors.log
+vendor/
